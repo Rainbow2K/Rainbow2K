@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Dawid 👋</h1>
-<p align="center"><b>Founder · AI-native builder · I ship products with AI agents</b></p>
+<p align="center"><b>Product &amp; startup builder · AI-native · I ship products with AI agents</b></p>
 
 <p align="center">
-  <a href="https://svcsystems.eu"><img src="https://img.shields.io/badge/SVC_Systems-Co--founder_%26_CEO-0b7a5a?style=for-the-badge" alt="SVC Systems"></a>
+  <a href="https://svcsystems.eu"><img src="https://img.shields.io/badge/SVC_Systems-svcsystems.eu-0b7a5a?style=for-the-badge" alt="SVC Systems"></a>
   <a href="https://rainbow2k.github.io/maly-matematyk/"><img src="https://img.shields.io/badge/Live_demo-Mały_Matematyk-8b7bff?style=for-the-badge" alt="Mały Matematyk"></a>
 </p>
 
